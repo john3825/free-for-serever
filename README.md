@@ -1,6 +1,6 @@
-# free-for-serever
+# free-for-server
 
-[$~JOYyk](https://github.com/john3825/free-for-serever/)
+[$~JOYyk](https://github.com/john3825/free-for-server/)
 
 ## Table of Contents
 =================
