@@ -4,11 +4,12 @@
         <img src="https://img.shields.io/badge/Version-1.0-blue" /></a>
     <a href="" alt="contributors">
         <img src="https://img.shields.io/badge/contributors-1-green" /></a>
-    [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
-[$~JOYyk](https://github.com/john3825/free-for-server/)
+    <a href="https://github.com/john3825/free-for-server" alt="free-for-server">
+        <img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg /></a>
 </p>
       
 
+[$~JOYyk](https://github.com/john3825/free-for-server/)
 
 
 ## Table of Contents
