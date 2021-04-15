@@ -27,4 +27,3 @@ This work is licensed under a
 
 
 
-https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png
