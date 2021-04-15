@@ -1,6 +1,6 @@
 # free-for-server
      <p>
-     <img src="https://img.shields.io/badge/Version-1.0-blue" />
+     <a href=""><img src="https://img.shields.io/badge/Version-1.0-blue" /></a>
         <img src="https://img.shields.io/github/contributors/badges/shields" />
         [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 </p>
