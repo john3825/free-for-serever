@@ -1,16 +1,15 @@
 # free-for-server
-     <a href=""><img src="https://img.shields.io/badge/Version-1.0-blue" /></a>
-        <img src="https://img.shields.io/contributors-1-green" />
-        [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
-[$~JOYyk](https://github.com/john3825/free-for-server/)
-
-<p align="center">
+<p align="left">
     <a href="" alt="Version">
         <img src="https://img.shields.io/badge/Version-1.0-blue" /></a>
     <a href="" alt="contributors">
         <img src="https://img.shields.io/badge/contributors-1-green" /></a>
-  
+    [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+[$~JOYyk](https://github.com/john3825/free-for-server/)
 </p>
+      
+
+
 
 ## Table of Contents
 =================
