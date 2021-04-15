@@ -4,7 +4,7 @@
         <img src="https://img.shields.io/badge/Version-1.0-blue" /></a>
     <a href="" alt="contributors">
         <img src="https://img.shields.io/badge/contributors-1-green" /></a>
-    <a href="https://github.com/john3825/free-for-server" alt="free-for-server">
+    <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/" alt="free-for-server">
         <img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg" /></a>
 </p>
       
