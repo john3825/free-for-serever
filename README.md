@@ -1,7 +1,9 @@
 # free-for-server
-
-[version] [contributors] [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
-
+     <p>
+     <img src="https://img.shields.io/badge/Version-1.0-blue" />
+        <img src="https://img.shields.io/github/contributors/badges/shields" />
+        [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+</p>
 [$~JOYyk](https://github.com/john3825/free-for-server/)
 
 ## Table of Contents
