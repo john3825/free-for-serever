@@ -12,7 +12,7 @@
 [$~JOYyk](https://github.com/john3825/free-for-server/)
 
 <br>
-cont. . gist-cont1
+cont. [gist-cont1]
 
 
 
